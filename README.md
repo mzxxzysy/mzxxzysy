@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/9595d808-ef9f-48d4-8b72-20742fc1ae3f"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzxxzysy&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=mzxxzysy&show_icons=true&title_color=e38181&text_color=695a5a&icon_color=e38181&bg_color=ffffff&hide_border=false" />
 </div>
 
 <h2>Activity</h2>
