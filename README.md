@@ -1,11 +1,18 @@
 <div align="center">
-Hi 👋 
+<h2> 😼 Hi! I'm Seoyoung 😼 </h2>
+<br>
+<img src="https://github.com/user-attachments/assets/9595d808-ef9f-48d4-8b72-20742fc1ae3f"/>
 </div>
+
+<h2>My GitHub stats</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzxxzysy&show_icons=true&theme=radical)
 
-<br>
+
+<h2>My Skills</h2>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzxxzysy" width=40% height=10%/>
+<br>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white">
 <br>
@@ -23,18 +30,15 @@ Hi 👋
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"> 
 <br>
 </div>
+<br>
+<h2>2️⃣0️⃣2️⃣4️⃣</h2>
 
-<!--
-**mzxxzysy/mzxxzysy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|NAME| DESCRIPT |STACK|
+|:---|:---|:---|
+|[Muse](https://github.com/2024-HERETHON/2024-Herethon-12)|멋쟁이사자처럼 2024 여대 연합 해커톤 여기톤|<img width="100px" src="https://skillicons.dev/icons?i=html,css,javascript&perline=4">|
+|[Scare](https://github.com/2024-HACKATHON-SCARE/FE_BE)|2024 멋쟁이사자처럼 중앙 해커톤|<img width="100px" src="https://skillicons.dev/icons?i=html,css,javascript&perline=4">|
+|[DECEMO](https://github.com/2024-LINE4THON/DECEMO)|2024 멋쟁이사자처럼 4호선톤|<img width="100px" src="https://skillicons.dev/icons?i=html,css,javascript&perline=4">|
+|[지역피움](https://github.com/S2C-bloom/bloom)|디지털소프트웨어공학부 해커톤 Seed2Code 🥇|<img width="100px" src="https://skillicons.dev/icons?i=html,css,javascript&perline=4">|
+|[PartyLink](https://github.com/2024likelion-party-link/FE)|2024 멋쟁이사자처럼 사개절|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
