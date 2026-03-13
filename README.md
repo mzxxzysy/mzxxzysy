@@ -8,6 +8,10 @@
 </div>
 
 <h2>Activity</h2>
+<h3>2026</h3>
+<div>
+  <h5>🌐 UMC 10기 (node)</h5>
+</div>
 <h3>2025</h3>
 <div>
   <h5>🦁 멋쟁이 사자처럼 13기 운영진 (프론트엔드)</h5>
@@ -21,6 +25,13 @@
 
 
 <h2>Project</h2>
+
+<h3>2026</h3>
+
+|NAME| DESCRIPT |STACK|
+|:---|:---|:---|
+|[Planvas](https://github.com/Planvas/Frontend)|2025 UMC 9기 데모 프로젝트|<img width="30px" src="https://skillicons.dev/icons?i=swift&perline=4">|
+
 <h3>2025</h3>
 
 |NAME| DESCRIPT |STACK|
@@ -28,6 +39,7 @@
 |[K-chop](https://github.com/gradationK2/frontend-repo)|멋쟁이사자처럼 2025 대학 연합 해커톤 트렌디톤|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
 |[LIKELION-DS](https://github.com/2025-LIKELION-DS/2025-LikeLionDS-FE)|2025 덕성여자대학교 멋쟁이사자처럼 13기 사이트|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
 |[여운](https://github.com/2025-LIKELION-DS/2025-DSFest-FE)|2025 덕성여자대학교 근화제 사이트|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
+|[코너](https://github.com/DS-Corner-Page/cornerpage_front)|교내 소모인 코너 홈페이지|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
 |[잇다](https://github.com/DS-ITDA/ITDA-FE)|2025 한이음 드림업 프로젝트|<img width="135px" src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=4">|
 |[CoreDisc](https://github.com/CoreDisc/CoreDisc-FE)|2025 UMC 8기 데모 프로젝트|<img width="30px" src="https://skillicons.dev/icons?i=swift&perline=4">|
 |[Dubidubap](https://github.com/2025-WORK-RUN-THON/DUBIDUBAP_FE)|2025 제1회 워런톤: Hack it Your Way🥈|<img width="135px" src="https://skillicons.dev/icons?i=html,css,ts,react&perline=4">|
